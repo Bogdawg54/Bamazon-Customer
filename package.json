@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront with mysql",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bogdawg54/Bamazon-Customer.git"
+  },
+  "keywords": [
+    "bamazon",
+    "mysql"
+  ],
+  "author": "Graham Bass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bogdawg54/Bamazon-Customer/issues"
+  },
+  "homepage": "https://github.com/Bogdawg54/Bamazon-Customer#readme",
+  "dependencies": {
+    "inquirer": "^3.2.0",
+    "mysql": "^2.13.0"
+  }
+}
